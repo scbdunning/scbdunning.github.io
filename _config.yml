@@ -1,0 +1,54 @@
+title:            Susan Bilynskyj Dunning
+tagline:          Deciphering Roman Rituals
+description:      Deciphering the Roman Ludi Saeculares at the University of Toronto.
+canonical: http://susandunning.net
+
+# Owner/author information
+owner:
+  name:           Susan Bilynskyj Dunning
+  bio:            "Scholar of Roman religion, currently focusing on the Ludi Saeculares."
+  email:          s.bilynskyj@utoronto.ca
+  location:       "Toronto, ON"
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: CV
+    url: /pdfs/susan-bilynskyj-dunning-cv.pdf
+  - title: Teaching
+    url: /teaching/
+  - title: Research
+    url: /research/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Toronto
+future:      true
+highlighter: pygments
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
