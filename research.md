@@ -8,7 +8,7 @@ image:
   feature: roman-sacrificing.jpg
 ---
 
-### Dissertation: Roman Ludi Saeculares from the Republic to Empire
+## Dissertation: Roman Ludi Saeculares from the Republic to Empire
 
 Religious rituals provide a key to our interpretation of the events and developments that transformed ancient Roman society. Many of these rites had their origins in a legendary past, and were reshaped in response to socio-political crises and upheavals in the Republic and Empire. The Ludi Saeculares (Secular Games) are a primary example of such a metamorphosis. Ancient traditions held that these Games were performed roughly once every century from their mythic founding in the sixth century BCE until their final celebration in 248 CE. Succeeding generations altered the character of the Games dramatically: a ritual once performed by the Valerian clan as a private act of propitiation to chthonic deities became a public celebration of Rome’s prosperity under the emperors. A study of the Secular Games will bring to light the religious frameworks and political attitudes that lay beneath this radical change.
 
