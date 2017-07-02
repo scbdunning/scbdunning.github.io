@@ -12,13 +12,18 @@ image:
 
 ### University of Toronto, 2017
 
+In this course we will consider the relationship between time and religious festivals, the ways in which Romans constructed their calendars and chronologies, and decisions to preserve, alter, or destroy the memory of persons or events in a variety of contexts and media (funerary monuments, triumphal arches, religious records, coins, poetry, historical texts, etc.). We will examine primary source material from the Republic to Empire, supplemented by secondary source readings.
+
 ## Intermediate Latin II
 
 ### University of Toronto, 2017
+This course forms the second half of our department’s full year sequence. In this course, we will do some review of grammar from your previous studies with Shelmerdine, and some new grammar will be introduced, but most of our time will be spent in the transition to read passages from a variety of ancient sources, including prose (e.g. Pliny the Younger, Livy, the Vindolanda tablets) and poetry (Vergil, funerary epitaphs). You will learn the basics of Latin metre and practice scanning dactylic hexameter. You will also be introduced to Latin epigraphy, allowing you to read inscriptions and graffiti at an elementary level, and you will contribute a translation of a previously untranslated inscription to the EAGLE database.
 
 ## Augustus and the Julio-Claudians 
 
 ### University of Toronto, 2017
+
+This class will provide an in-depth study of the Roman world in the age of Augustus and his dynasty (44 BCE to 68 CE). We will consider a number of issues, including the development of imperial self-representation and identity/ideology, the evolving role of the emperor, the importance of family and dynasty, the relationship between Rome and the provinces, and the growth of the so-called “imperial cult” throughout the empire. Participation in class discussions will form a substantial part of the final mark.
 
 ## Religion in the Greek World
 
