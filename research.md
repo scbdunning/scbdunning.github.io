@@ -8,6 +8,10 @@ image:
   feature: roman-sacrificing.jpg
 ---
 
+## Publications
+
+My [ORCID profile](https://orcid.org/0000-0001-9733-9403) provides links to my published works.
+
 ## Monograph: The Ludi Saeculares and the *Saeculum*
 
 Religious rituals provide a key to our interpretation of the events and developments that transformed ancient Roman society. Many of these rites had their origins in a legendary past, and were reshaped in response to socio-political crises and upheavals in the Republic and Empire. The Ludi Saeculares ("Saecular Games") are a primary example of such a metamorphosis. Ancient traditions held that these Games were performed every *saeculum* (“age”, “generation”), an interval of roughly 100 or 110 years, from their mythic founding in the sixth century BCE until their final celebration in 248 CE. Succeeding generations altered the character of the Games dramatically: a ritual once performed by the Valerian clan as a private act of propitiation to chthonic deities became a public celebration of Rome’s prosperity under the emperors. My monograph brings to light the religious frameworks and political attitudes that lay beneath this radical change through the first comprehensive analysis of the history of the Ludi Saeculares. The argument contains two major threads: an analysis of the origins and development of the Games themselves, and the use of the term *saeculum* in imperial rhetoric in literary, epigraphic, and numismatic sources from the early Republic to the fifth century CE.
