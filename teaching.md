@@ -8,6 +8,26 @@ image:
   feature: maenads.jpg
 ---
 
+## Introduction to Classical Mythology
+
+### University of Toronto, 2014, 2018, 2019
+
+This course will provide you with an introduction to the most important myths from the ancient Greek and Roman civilizations. We will focus especially on myths in action: how myths were transmitted, performed, and changed over time, and the role that these myths played in shaping the societies that had created and adapted them. There will also be an introduction to the reception of classical myths in later Western cultures.
+
+## Latin Oratory I & II
+
+### University of Toronto, 2018
+
+In Latin Oratory I, we will read portions of Cicero’s *Pro Caelio* and *De Domo Sua,* as well as Camillus’s speech in Livy 5.49–55. Latin Oratory II includes lengthier readings from these works, in addition to selections from the *Ad Herenniam.*
+
+## Latin and Greek in Scientific Terminology
+
+### University of Toronto, 2018
+
+This course will provide you with a foundation in the Greek and Latin elements of scientific vocabulary; it is designed for students with no prior knowledge of the languages. The scientific community has utilized a huge variety of technical terms for centuries, and its multilingual members have required a way to effectively communicate with one another. In earlier periods, most students of the sciences learned Greek and Latin as a core part of their education, and thus these languages were used to form technical vocabulary that could be easily understood by international researchers. 
+
+In this course, you will acquire a working vocabulary of fundament Greek and Latin roots, prefixes, and suffixes in order to understand scientific terms. You will develop competency in using unfamiliar words to communicate and comprehend scientific results in oral and written contexts. You will gain skills necessary to identify Greek and Latin elements of scientific terminology, which will allow you to use the roots to deduce the meaning of complex terms. Finally, you will be given an overview of the history of scientific communication, which will allow you to understand the historical processes that have led to the development of current scientific terminology, and to appreciate and improve upon current methodology for the dissemination of research.
+
 ## Classical Sites and Monuments
 
 ### University of Toronto, 2018
@@ -34,7 +54,7 @@ This class will provide an in-depth study of the Roman world in the age of Augus
 
 ## Introduction to Roman Society and Culture
 
-### University of Toronto, 2016, 2018
+### University of Toronto, 2016, 2018, 2019
 
 This course is designed for students with some knowledge of the Greco-Roman civilizations, but with little or no previous study of Roman society and culture. We will examine various aspects of Roman society, including government, family life, religion, entertainment, the military, gender, and sexuality. The point of this course is not simply to memorize dates or maps of houses; rather, we will pay close attention to methodological problems in the study of ancient cultures, particularly of groups underrepresented in surviving evidence (such as women, children, and slaves). We will consider a variety of primary sources (in translation) that contribute to our understanding of Roman civilization, while discussing the many issues that scholars face in reconstructing models of ancient societies.
 
@@ -65,12 +85,6 @@ Participation in class is crucial; in one project, for example, you will re-enac
 ### University of Toronto, 2015
 
 This course forms the second part of an intensive introduction to Classical Latin, in which you will continue to develop and master a foundational knowledge of Latin grammar, syntax, and vocabulary, as well as your ability to translate short seen and unseen passages of prose from Latin to English, and vice versa. We will cover Chapters 16–32 of our textbook, Shelmerdine.
-
-## Introduction to Classical Mythology
-
-### University of Toronto, 2014, 2018
-
-This course will provide you with an introduction to the most important myths from the ancient Greek and Roman civilizations. We will focus especially on myths in action: how myths were transmitted, performed, and changed over time, and the role that these myths played in shaping the societies that had created and adapted them. There will also be an introduction to the reception of Classical myths in later Western cultures. All course readings come directly from translations of ancient texts and will be available online through our Perseids website. We will also examine myths narrated through other media, such as vase paintings, sculptures, frescoes, etc. For your last assignment, you have the option of comparing an ancient object at the [Royal Ontario Museum](http://www.rom.on.ca/) to a literary version of a myth from your assigned readings. The instructor will offer an optional tour of the Greek and Roman collections at the ROM to help you select an object for your discussion.
 
 ## Introductory Ancient Greek II
 
