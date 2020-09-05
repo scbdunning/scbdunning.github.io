@@ -13,4 +13,6 @@ My forthcoming [monograph](research/), *The* Ludi Saeculares *and the* Saeculum:
 
 My [ORCID profile](https://orcid.org/0000-0001-9733-9403) provides links to my published works.
 
+I am keen to contribute to public engagement and outreach. Some of my recent popular outputs include a teaching video on belief in Roman religion for Gerda Henkel's [L.I.S.A. Science Portal](https://lisa.gerda-henkel-stiftung.de/did_the_romans_believe_in_their_gods?nav_id=9347), an article on political 'time rhetoric' for the [Conversation](https://theconversation.com/has-boris-johnson-been-picking-up-tips-from-the-roman-emperors-131535), and a blog post on deification and the 'male gaze' for [Somerville College](https://www.some.ox.ac.uk/news/power-in-the-eye-of-the-beholder-the-male-gaze-and-roman-religion/). 
+
 I [teach](teaching/) Roman and Greek history and religion, Latin and Greek languages at all levels, and Classical myth and drama.
